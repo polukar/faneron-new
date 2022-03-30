@@ -1,0 +1,46 @@
+@font-face {
+  font-family: "Bebas Neue";
+  src: local("Bebas-Neue-Regular"), url("../fonts/Bebas-Neue-Regular.woff2") format("woff2"), url("../fonts/Bebas-Neue-Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Druk Cyr";
+  src: local("Druk Cyr Medium Italic"), url("../fonts/Druk Cyr Medium Italic.woff2") format("woff2"),
+    url("../fonts/Druk Cyr Medium Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Druk Cyr";
+  src: local("Druk Cyr Medium"), url("../fonts/Druk Cyr Medium.woff2") format("woff2"), url("../fonts/Druk Cyr Medium.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Druk Text Cyr";
+  src: local("Druk Text Cyr Medium Italic"), url("../fonts/Druk Text Cyr Medium Italic.woff2") format("woff2"),
+    url("../fonts/Druk Text Cyr Medium Italic.woff") format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Druk Text Cyr";
+  src: local("Druk-Text-Cyr-Medium"), url("../fonts/Druk-Text-Cyr-Medium.woff2") format("woff2"),
+    url("../fonts/Druk-Text-Cyr-Medium.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Pragmatica";
+  src: local("Pragmatica Condensed Book"), url("../fonts/Pragmatica Condensed Book.woff2") format("woff2"),
+    url("../fonts/Pragmatica Condensed Book.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

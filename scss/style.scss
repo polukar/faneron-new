@@ -1,0 +1,18 @@
+@import "../../node_modules/swiper/swiper.scss";
+@import "../../node_modules/swiper/modules/effect-fade/effect-fade.scss";
+@import "./libs/datepicker.scss";
+@import "settings/vars";
+@import "settings/colors";
+@import "settings/mixins";
+@import "default/reset";
+@import "global/fonts";
+@import "global/animation";
+@import "global/tags";
+@import "global/classes";
+// @import "global-components/dflt-bttn";
+// @import "global-components/dflt-tg";
+@import "global-components/modal";
+@import "structure-page/header";
+@import "structure-page/footer";
+@import "pages/main";
+@import "pages/create";
